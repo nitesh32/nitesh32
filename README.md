@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nitesh</h1>
 <img src="https://media.licdn.com/dms/image/C4E16AQF0vP53BASk-g/profile-displaybackgroundimage-shrink_350_1400/0/1630729118657?e=1686182400&v=beta&t=UsT4wuqV72ueznbutVKalkpNFMLTQzkY6P1Y7gB-I14" width="100%" height="220px" border-radius="5px" >
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh32&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh32" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Html5, Css3, Javascript**
 
