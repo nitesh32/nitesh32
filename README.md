@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Html5, Css3, Javascript**
+- 💬 Ask me about **Html5, Css3, Javascript, Node js, Express, Mongo db**
 
 - 📫 How to reach me **nit8339@gmail.com**
 
