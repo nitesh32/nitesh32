@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">
+I'm a Full-Stack developer based in Chandigarh, Haryana. A Computer Science Engineering graduate from Chandigarh University, I excel in MERN stack, having built dynamic web apps and solved 330+ problems on Codeforces. Passionate about continuous improvement, I actively contribute to open-source projects, seeking to expand my skills in a thriving tech community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh32&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh32" /> </p>
 
