@@ -1,10 +1,17 @@
-# Hi, I'm Nitesh Sharma 👋
+<h1 align="center">Hi 👋, I'm Nitesh Sharma</h1>
+<h3 align="center">Software Engineer building AI-powered developer tools & scalable web applications.</h3>
 
-Software Engineer passionate about building AI-powered developer tools and scalable web applications.
-
-- 🚀 Currently building **ByteBell** — an AI platform for chatting with codebases and documentation.
+- 🚀 Currently building **ByteBell** — an AI platform for chatting with codebases, docs & business knowledge.
 - 💻 Working with **TypeScript, React, Fastify, MongoDB, AWS, LLMs, MCP & Pinecone**.
-- 🌱 Exploring AI Agents, RAG, and distributed systems.
-- 🌐 Portfolio: **https://www.niteshdev.tech**
-- 📫 Reach me: **nit8339@gmail.com**
-- 🤝 Connect: **LinkedIn** • **X (Twitter)**
+- 🌱 Exploring **AI Agents, RAG, and distributed systems**.
+- 📫 Reach me at **nit8339@gmail.com**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nitesh-sharma-3429541bb/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/NiteshS1123" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
+  </a>
+</p>
