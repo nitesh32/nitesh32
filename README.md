@@ -7,7 +7,7 @@
 - 📫 Reach me at **nit8339@gmail.com**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitesh-sharma-3429541bb/" target="_blank">
+  <a href="https://www.linkedin.com/in/nitesh32/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
