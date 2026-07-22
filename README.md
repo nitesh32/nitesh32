@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/NiteshS1123" target="_blank">
-    <img src="https://x.com/nitesh_s11" height="40" alt="X (Twitter)" />
+  <a href="https://x.com/nitesh_s11" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X (Twitter)" />
   </a>
 </p>
