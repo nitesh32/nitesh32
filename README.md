@@ -1,16 +1,22 @@
 <div align="center">
 
-# Hi 👋, I'm Nitesh Sharma
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7C86FF&center=true&vCenter=true&width=640&lines=Hi%2C+I+am+Nitesh+Sharma+%F0%9F%91%8B;Software+Engineer+%E2%80%94+AI+Infra+%26+Dev+Tools;RAG+%C2%B7+Knowledge+Graphs+%C2%B7+MCP+Servers" alt="Typing SVG" />
 
-### Software Engineer building AI-powered developer tools and the infrastructure behind them
+<br/><br/>
 
-I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting all of it<br/>running reliably inside other people's infrastructure.
+<!-- Animated hero: blast radius -->
+<img src="assets/blast-radius.svg" width="660" alt="blast radius — a change in one file ripples across files and repos" />
+
+<br/>
+<sub><i>a change in one file, and everything it touches — the kind of thing my tooling reasons about</i></sub>
+
+<br/><br/>
 
 <p>
 <a href="https://www.linkedin.com/in/nitesh32/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/nitesh32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/nitesh_s11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:nit8339@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -19,10 +25,12 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 
 ## 🙋‍♂️ About Me
 
+**Software Engineer building AI-powered developer tools and the infrastructure behind them.** I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting all of it running reliably inside other people's infrastructure.
+
 - 🚀 Currently **Engineering Manager @ Bytebell**, building an AI platform for querying codebases, docs, and organizational knowledge
-- 🏗️ Most of my time goes to **distribution and deployment** — shipping the same product as multi-tenant cloud SaaS and as a self-hosted enterprise package
-- 🧠 Working with **TypeScript, Node.js, Fastify, MongoDB, Neo4j, Pinecone, Docker, AWS, LLMs & MCP**
-- 🌱 Exploring **AI agents, retrieval quality, and distributed systems**
+- 🏗️ Most of my time goes to **distribution & deployment** — shipping the same product as multi-tenant cloud SaaS and as a self-hosted enterprise package on **Kubernetes**, **Docker Compose**, and client-owned **AWS / GCP**
+- 🔔 Built the **email notification system** (queued delivery + automatic retries) that keeps users updated on ingestion and deployment events without dropping a single alert
+- 🧠 Deep in **TypeScript, Node.js, Fastify, MongoDB, Neo4j, Pinecone, Redis, Docker, Kubernetes, AWS, LLMs & MCP**
 - 📫 Reach me at **nit8339@gmail.com**
 
 ---
@@ -34,19 +42,21 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 #### 🧭 Engineering Manager &nbsp;·&nbsp; *May 2026 – Present*
 
 - ☁️ Deployed the platform to client-owned servers on **AWS** and **GCP**, handling infrastructure setup and production issues end to end
-- 📦 Built the containerized distribution pipeline — versioned release packaging, **Docker Compose** stacks, deployment and licensing manifests in **etcd**, **HAProxy** routing, and signed image publishing to a private registry
-- 🔄 Shipped a self-updating system service that keeps single-tenant on-premise installations current with no manual upgrade work from the customer
+- 📦 Built the containerized distribution pipeline — versioned release packaging, **Docker Compose** & **Kubernetes** deployment, licensing manifests in **etcd**, **HAProxy** routing, and signed image publishing to a private registry (**AWS ECR**) — so customers run the full stack in their own environment
+- 🔄 Shipped a self-updating system service that pulls signed images from the private registry, keeping single-tenant on-premise installations current with no manual upgrade work from the customer
+- 🔔 Built an **email notification system** for key events (ingestion completion, deployment / system status) with **queued delivery and automatic retries**, so notifications are retried instead of lost
 - ⚡ Cut end-to-end processing time by **30%** and infrastructure cost by **40%** through pipeline batching and query optimization
-- 🔐 Built multi-organization access control with **RBAC**, per-org data isolation, and super-admin roles
+- 🔐 Established multi-organization access control with **RBAC**, per-org data isolation, and super-admin roles — one deployment serving multiple enterprise teams
+- 🔗 Built **OAuth 2.0** integrations with **GitHub, GitLab, and Google** (GitHub Apps + GitLab REST APIs), letting organizations securely connect their accounts and repositories
 - 🛠️ Resolved **150+** production issues across client deployments
 
 #### 👨‍💻 Software Engineer &nbsp;·&nbsp; *Apr 2024 – May 2026*
 
-- 🏛️ Built and shipped a hybrid **B2B SaaS** AI developer-knowledge platform — RAG and knowledge-graph search over code repositories and documents
+- 🏛️ Built and shipped a hybrid **B2B SaaS** AI developer-knowledge platform — RAG and knowledge-graph search over code repositories and documents, delivered both as multi-tenant cloud and as a self-hosted enterprise package
 - 📥 Developed the content ingestion system letting companies add **Git repositories, websites, PDFs, and images**, then query them in natural language through a **Pinecone**-backed RAG pipeline
 - 🔌 Built the **MCP server** exposing retrieval to coding agents, with session management, persistent connections, and per-user API keys
 - 🖥️ Shipped client surfaces including a **VS Code extension** and an **Electron** desktop app for managing locally running models
-- 💬 Designed the **chat system** with per-user persistent context
+- 💬 Designed the **chat system** with per-user persistent context, letting users save and reuse their own knowledge across conversations
 
 ### Coding Ninjas &nbsp;·&nbsp; *Jan 2024 – Apr 2024*
 
@@ -57,9 +67,7 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 
 ---
 
-<div align="center">
-
-## 💻 Use To Code
+## 💻 Tech I Use
 
 **Languages**
 
@@ -79,8 +87,11 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 <img src="https://img.shields.io/badge/Knowledge%20Graphs-4B8BBE?style=for-the-badge" alt="Knowledge Graphs" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
 <img src="https://img.shields.io/badge/Vector%20Search-008080?style=for-the-badge" alt="Vector Search" />
+<img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=for-the-badge" alt="Embeddings" />
 <img src="https://img.shields.io/badge/Chunking-666666?style=for-the-badge" alt="Chunking" />
 <br/>
+<img src="https://img.shields.io/badge/Multi--provider%20Routing-6467F2?style=for-the-badge" alt="Multi-provider Routing" />
+<img src="https://img.shields.io/badge/Token%20Cost%20Metering-2B6CB0?style=for-the-badge" alt="Token Cost Metering" />
 <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge" alt="Anthropic" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
@@ -99,6 +110,7 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
 <img src="https://img.shields.io/badge/REST%20%26%20SSE-6DB33F?style=for-the-badge" alt="REST and SSE" />
 <img src="https://img.shields.io/badge/BullMQ-DD2C00?style=for-the-badge" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Notifications%20(Queue%20%2B%20Retries)-EA580C?style=for-the-badge" alt="Notifications" />
 </p>
 
 **Databases**
@@ -116,16 +128,19 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
 <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" />
 <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 <br/>
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-<img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge" alt="etcd" />
-<img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge" alt="HAProxy" />
 <img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ECR" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge" alt="PM2" />
+<img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white" alt="etcd" />
+<img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge" alt="HAProxy" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+<img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Secrets Manager" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
 </p>
 
 **Frontend**
@@ -147,6 +162,7 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge" alt="OAuth 2.0" />
 <img src="https://img.shields.io/badge/GitHub%20Apps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Apps" />
 <img src="https://img.shields.io/badge/GitLab%20API-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab API" />
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
 <br/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 <img src="https://img.shields.io/badge/RBAC-5C2D91?style=for-the-badge" alt="RBAC" />
@@ -163,15 +179,13 @@ I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting al
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </p>
 
-</div>
-
 ---
 
-## 🧩 What I'm interested in
+## 🧩 Where I Go Deep
 
-Shipping software into environments you don't control is a different problem from shipping to your own cloud. You can't SSH in when something breaks, every customer setup is different, and you still have to deliver updates and enforce licensing. Building that pipeline taught me more than anything else I've worked on.
+Shipping software into environments you don't control is a different problem from shipping to your own cloud — no SSH when something breaks, every customer setup is different, and you still have to deliver updates, enforce licensing, and keep people informed when jobs finish or fail. Building and running that pipeline — self-hosted on Kubernetes and Docker Compose, with signed images, self-updating services, and a notification system that retries instead of dropping alerts — is the work I do best.
 
-I'm also interested in retrieval quality — the gap between a RAG demo that looks impressive and one that actually returns the right context on a large, messy codebase.
+The other thing I obsess over is retrieval quality: closing the gap between a RAG demo that looks impressive and one that actually returns the right context on a large, messy codebase.
 
 ---
 
@@ -182,6 +196,5 @@ I'm also interested in retrieval quality — the gap between a RAG demo that loo
 <a href="https://www.linkedin.com/in/nitesh32/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
 <a href="https://github.com/nitesh32"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 <a href="https://x.com/nitesh_s11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" /></a>
-<a href="mailto:nit8339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
 
 </div>
