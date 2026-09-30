@@ -72,35 +72,35 @@
 
 **Languages**
 
-<img src="assets/skills/skills-languages.svg" width="830" alt="TypeScript, JavaScript, Python, C++, C, Bash">
+<img src="assets/skills/skills-languages-v2.svg" width="830" alt="TypeScript, JavaScript, Python, C++, C, Bash">
 
 **AI &amp; LLM**
 
-<img src="assets/skills/skills-ai.svg" width="830" alt="RAG, Knowledge Graphs, MCP, Vector Search, Embeddings, Chunking, Multi-provider Routing, Token Cost Metering, Anthropic, OpenAI, Gemini, OpenRouter, Langfuse">
+<img src="assets/skills/skills-ai-v2.svg" width="830" alt="RAG, Knowledge Graphs, MCP, Vector Search, Embeddings, Chunking, Multi-provider Routing, Token Cost Metering, Anthropic, OpenAI, Gemini, OpenRouter, Langfuse">
 
 **Backend**
 
-<img src="assets/skills/skills-backend.svg" width="830" alt="Node.js, Bun, Express, RabbitMQ, Fastify, REST &amp; SSE, BullMQ, Notifications">
+<img src="assets/skills/skills-backend-v2.svg" width="830" alt="Node.js, Bun, Express, RabbitMQ, Fastify, REST &amp; SSE, BullMQ, Notifications">
 
 **Databases**
 
-<img src="assets/skills/skills-databases.svg" width="830" alt="MongoDB, Neo4j, Redis, Pinecone, AWS S3">
+<img src="assets/skills/skills-databases-v2.svg" width="830" alt="MongoDB, Neo4j, Redis, Pinecone, AWS S3">
 
 **Infra &amp; DevOps**
 
-<img src="assets/skills/skills-infra.svg" width="830" alt="Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Docker Compose, AWS ECR, etcd, HAProxy, CloudWatch, Secrets Manager, PM2">
+<img src="assets/skills/skills-infra-v2.svg" width="830" alt="Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Docker Compose, AWS ECR, etcd, HAProxy, CloudWatch, Secrets Manager, PM2">
 
 **Frontend**
 
-<img src="assets/skills/skills-frontend.svg" width="830" alt="React, Vite, Astro, Tailwind CSS, Electron, shadcn/ui, TanStack Query">
+<img src="assets/skills/skills-frontend-v2.svg" width="830" alt="React, Vite, Astro, Tailwind CSS, Electron, shadcn/ui, TanStack Query">
 
 **Auth &amp; Integrations**
 
-<img src="assets/skills/skills-auth.svg" width="830" alt="OAuth 2.0, GitHub Apps, GitLab API, Google OAuth, JWT, RBAC, Multi-tenancy">
+<img src="assets/skills/skills-auth-v2.svg" width="830" alt="OAuth 2.0, GitHub Apps, GitLab API, Google OAuth, JWT, RBAC, Multi-tenancy">
 
 **Tools**
 
-<img src="assets/skills/skills-tools.svg" width="830" alt="Git, GitHub, VS Code, Postman, Figma">
+<img src="assets/skills/skills-tools-v2.svg" width="830" alt="Git, GitHub, VS Code, Postman, Figma">
 
 ---
 
