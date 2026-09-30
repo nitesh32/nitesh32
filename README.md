@@ -72,59 +72,35 @@
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-languages-dark.svg">
-  <img src="assets/skills/skills-languages-light.svg" width="830" alt="TypeScript, JavaScript, Python, C++, C, Bash">
-</picture>
+<img src="assets/skills/skills-languages.svg" width="830" alt="TypeScript, JavaScript, Python, C++, C, Bash">
 
 **AI &amp; LLM**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-ai-dark.svg">
-  <img src="assets/skills/skills-ai-light.svg" width="830" alt="RAG, Knowledge Graphs, MCP, Vector Search, Embeddings, Chunking, Multi-provider Routing, Token Cost Metering, Anthropic, OpenAI, Gemini, OpenRouter, Langfuse">
-</picture>
+<img src="assets/skills/skills-ai.svg" width="830" alt="RAG, Knowledge Graphs, MCP, Vector Search, Embeddings, Chunking, Multi-provider Routing, Token Cost Metering, Anthropic, OpenAI, Gemini, OpenRouter, Langfuse">
 
 **Backend**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-backend-dark.svg">
-  <img src="assets/skills/skills-backend-light.svg" width="830" alt="Node.js, Bun, Express, RabbitMQ, Fastify, REST &amp; SSE, BullMQ, Notifications">
-</picture>
+<img src="assets/skills/skills-backend.svg" width="830" alt="Node.js, Bun, Express, RabbitMQ, Fastify, REST &amp; SSE, BullMQ, Notifications">
 
 **Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-databases-dark.svg">
-  <img src="assets/skills/skills-databases-light.svg" width="830" alt="MongoDB, Neo4j, Redis, Pinecone, AWS S3">
-</picture>
+<img src="assets/skills/skills-databases.svg" width="830" alt="MongoDB, Neo4j, Redis, Pinecone, AWS S3">
 
 **Infra &amp; DevOps**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-infra-dark.svg">
-  <img src="assets/skills/skills-infra-light.svg" width="830" alt="Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Docker Compose, AWS ECR, etcd, HAProxy, CloudWatch, Secrets Manager, PM2">
-</picture>
+<img src="assets/skills/skills-infra.svg" width="830" alt="Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Docker Compose, AWS ECR, etcd, HAProxy, CloudWatch, Secrets Manager, PM2">
 
 **Frontend**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-frontend-dark.svg">
-  <img src="assets/skills/skills-frontend-light.svg" width="830" alt="React, Vite, Astro, Tailwind CSS, Electron, shadcn/ui, TanStack Query">
-</picture>
+<img src="assets/skills/skills-frontend.svg" width="830" alt="React, Vite, Astro, Tailwind CSS, Electron, shadcn/ui, TanStack Query">
 
 **Auth &amp; Integrations**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-auth-dark.svg">
-  <img src="assets/skills/skills-auth-light.svg" width="830" alt="OAuth 2.0, GitHub Apps, GitLab API, Google OAuth, JWT, RBAC, Multi-tenancy">
-</picture>
+<img src="assets/skills/skills-auth.svg" width="830" alt="OAuth 2.0, GitHub Apps, GitLab API, Google OAuth, JWT, RBAC, Multi-tenancy">
 
 **Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-tools-dark.svg">
-  <img src="assets/skills/skills-tools-light.svg" width="830" alt="Git, GitHub, VS Code, Postman, Figma">
-</picture>
+<img src="assets/skills/skills-tools.svg" width="830" alt="Git, GitHub, VS Code, Postman, Figma">
 
 ---
 
