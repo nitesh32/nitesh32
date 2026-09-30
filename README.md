@@ -17,6 +17,7 @@
 <a href="https://www.linkedin.com/in/nitesh32/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/nitesh32"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/nitesh_s11"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.nitesh32.xyz/resume"><img src="https://img.shields.io/badge/Resume-7C86FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 </p>
 
 </div>
@@ -27,7 +28,7 @@
 
 **Software Engineer building AI-powered developer tools and the infrastructure behind them.** I work on RAG pipelines, knowledge graphs, and MCP servers — and on getting all of it running reliably inside other people's infrastructure.
 
-- 🚀 Currently **Engineering Manager @ Bytebell**, building an AI platform for querying codebases, docs, and organizational knowledge
+- 🚀 Currently **Software Engineer-2 @ Bytebell**, building an AI platform for querying codebases, docs, and organizational knowledge
 - 🏗️ Most of my time goes to **distribution & deployment** — shipping the same product as multi-tenant cloud SaaS and as a self-hosted enterprise package on **Kubernetes**, **Docker Compose**, and client-owned **AWS / GCP**
 - 🔔 Built the **email notification system** (queued delivery + automatic retries) that keeps users updated on ingestion and deployment events without dropping a single alert
 - 🧠 Deep in **TypeScript, Node.js, Fastify, MongoDB, Neo4j, Pinecone, Redis, Docker, Kubernetes, AWS, LLMs & MCP**
@@ -39,7 +40,7 @@
 
 ### Bytebell &nbsp;·&nbsp; *Apr 2024 – Present*
 
-#### 🧭 Engineering Manager &nbsp;·&nbsp; *May 2026 – Present*
+#### 🧭 Software Engineer-2 &nbsp;·&nbsp; *May 2026 – Present*
 
 - ☁️ Deployed the platform to client-owned servers on **AWS** and **GCP**, handling infrastructure setup and production issues end to end
 - 📦 Built the containerized distribution pipeline — versioned release packaging, **Docker Compose** & **Kubernetes** deployment, licensing manifests in **etcd**, **HAProxy** routing, and signed image publishing to a private registry (**AWS ECR**) — so customers run the full stack in their own environment
@@ -50,7 +51,7 @@
 - 🔗 Built **OAuth 2.0** integrations with **GitHub, GitLab, and Google** (GitHub Apps + GitLab REST APIs), letting organizations securely connect their accounts and repositories
 - 🛠️ Resolved **150+** production issues across client deployments
 
-#### 👨‍💻 Software Engineer &nbsp;·&nbsp; *Apr 2024 – May 2026*
+#### 👨‍💻 Software Engineer-1 &nbsp;·&nbsp; *Apr 2024 – May 2026*
 
 - 🏛️ Built and shipped a hybrid **B2B SaaS** AI developer-knowledge platform — RAG and knowledge-graph search over code repositories and documents, delivered both as multi-tenant cloud and as a self-hosted enterprise package
 - 📥 Developed the content ingestion system letting companies add **Git repositories, websites, PDFs, and images**, then query them in natural language through a **Pinecone**-backed RAG pipeline
@@ -71,113 +72,59 @@
 
 **Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-<img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
-<img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-languages-dark.svg">
+  <img src="assets/skills/skills-languages-light.svg" width="830" alt="TypeScript, JavaScript, Python, C++, C, Bash">
+</picture>
 
 **AI &amp; LLM**
 
-<p>
-<img src="https://img.shields.io/badge/RAG-5A9BD5?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/Knowledge%20Graphs-4B8BBE?style=for-the-badge" alt="Knowledge Graphs" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
-<img src="https://img.shields.io/badge/Vector%20Search-008080?style=for-the-badge" alt="Vector Search" />
-<img src="https://img.shields.io/badge/Embeddings-4B8BBE?style=for-the-badge" alt="Embeddings" />
-<img src="https://img.shields.io/badge/Chunking-666666?style=for-the-badge" alt="Chunking" />
-<br/>
-<img src="https://img.shields.io/badge/Multi--provider%20Routing-6467F2?style=for-the-badge" alt="Multi-provider Routing" />
-<img src="https://img.shields.io/badge/Token%20Cost%20Metering-2B6CB0?style=for-the-badge" alt="Token Cost Metering" />
-<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge" alt="Anthropic" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" alt="OpenRouter" />
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge" alt="Langfuse" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-ai-dark.svg">
+  <img src="assets/skills/skills-ai-light.svg" width="830" alt="RAG, Knowledge Graphs, MCP, Vector Search, Embeddings, Chunking, Multi-provider Routing, Token Cost Metering, Anthropic, OpenAI, Gemini, OpenRouter, Langfuse">
+</picture>
 
 **Backend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-<img src="https://skillicons.dev/icons?i=bun" height="40" alt="Bun" />
-<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-<img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
-<br/>
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-<img src="https://img.shields.io/badge/REST%20%26%20SSE-6DB33F?style=for-the-badge" alt="REST and SSE" />
-<img src="https://img.shields.io/badge/BullMQ-DD2C00?style=for-the-badge" alt="BullMQ" />
-<img src="https://img.shields.io/badge/Notifications%20(Queue%20%2B%20Retries)-EA580C?style=for-the-badge" alt="Notifications" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-backend-dark.svg">
+  <img src="assets/skills/skills-backend-light.svg" width="830" alt="Node.js, Bun, Express, RabbitMQ, Fastify, REST &amp; SSE, BullMQ, Notifications">
+</picture>
 
 **Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-<img src="https://skillicons.dev/icons?i=neo4j" height="40" alt="Neo4j" />
-<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
-<br/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-databases-dark.svg">
+  <img src="assets/skills/skills-databases-light.svg" width="830" alt="MongoDB, Neo4j, Redis, Pinecone, AWS S3">
+</picture>
 
 **Infra &amp; DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
-<img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
-<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-<br/>
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
-<img src="https://img.shields.io/badge/AWS%20ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ECR" />
-<img src="https://img.shields.io/badge/etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white" alt="etcd" />
-<img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge" alt="HAProxy" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
-<img src="https://img.shields.io/badge/Secrets%20Manager-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Secrets Manager" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-infra-dark.svg">
+  <img src="assets/skills/skills-infra-light.svg" width="830" alt="Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Docker Compose, AWS ECR, etcd, HAProxy, CloudWatch, Secrets Manager, PM2">
+</picture>
 
 **Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-<img src="https://skillicons.dev/icons?i=vite" height="40" alt="Vite" />
-<img src="https://skillicons.dev/icons?i=astro" height="40" alt="Astro" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
-<img src="https://skillicons.dev/icons?i=electron" height="40" alt="Electron" />
-<br/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge" alt="shadcn ui" />
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge" alt="TanStack Query" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-frontend-dark.svg">
+  <img src="assets/skills/skills-frontend-light.svg" width="830" alt="React, Vite, Astro, Tailwind CSS, Electron, shadcn/ui, TanStack Query">
+</picture>
 
 **Auth &amp; Integrations**
 
-<p>
-<img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge" alt="OAuth 2.0" />
-<img src="https://img.shields.io/badge/GitHub%20Apps-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Apps" />
-<img src="https://img.shields.io/badge/GitLab%20API-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab API" />
-<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
-<br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/RBAC-5C2D91?style=for-the-badge" alt="RBAC" />
-<img src="https://img.shields.io/badge/Multi--tenancy-336791?style=for-the-badge" alt="Multi-tenancy" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-auth-dark.svg">
+  <img src="assets/skills/skills-auth-light.svg" width="830" alt="OAuth 2.0, GitHub Apps, GitLab API, Google OAuth, JWT, RBAC, Multi-tenancy">
+</picture>
 
 **Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/skills-tools-dark.svg">
+  <img src="assets/skills/skills-tools-light.svg" width="830" alt="Git, GitHub, VS Code, Postman, Figma">
+</picture>
 
 ---
 
@@ -196,5 +143,6 @@ The other thing I obsess over is retrieval quality: closing the gap between a RA
 <a href="https://www.linkedin.com/in/nitesh32/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
 <a href="https://github.com/nitesh32"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 <a href="https://x.com/nitesh_s11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" /></a>
+<a href="https://www.nitesh32.xyz/resume"><img src="https://img.shields.io/badge/Resume-7C86FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
 
 </div>
