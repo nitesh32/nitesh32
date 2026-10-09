@@ -110,17 +110,3 @@
 Shipping software into environments you don't control is a different problem from shipping to your own cloud — no SSH when something breaks, every customer setup is different, and you still have to deliver updates, enforce licensing, and keep people informed when jobs finish or fail. Building and running that pipeline — self-hosted on Kubernetes and Docker Compose, with signed images, self-updating services, and a notification system that retries instead of dropping alerts — is the work I do best.
 
 The other thing I obsess over is retrieval quality: closing the gap between a RAG demo that looks impressive and one that actually returns the right context on a large, messy codebase.
-
----
-
-<div align="center">
-
-### 📫 Connect with me
-
-<a href="https://www.linkedin.com/in/nitesh32/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-<a href="https://github.com/nitesh32"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-<a href="https://x.com/nitesh_s11"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X" /></a>
-<a href="https://www.nitesh32.xyz/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.nitesh32.xyz/resume"><img src="https://img.shields.io/badge/Resume-7C86FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-
-</div>
