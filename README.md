@@ -5,8 +5,13 @@
 
 <br/><br/>
 
-<!-- Animated hero: blast radius -->
-<img src="assets/blast-radius.svg" width="660" alt="blast radius — a change in one file ripples across files and repos" />
+<!-- Blast radius: theme-aware, with a stacked layout for narrow screens -->
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/blast-radius-narrow-dark.svg" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/blast-radius-narrow-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/blast-radius-dark.svg" />
+  <img src="assets/blast-radius-light.svg" width="830" alt="Blast radius: changing pricing.ts directly affects cart.ts, discounts.ts and invoice.ts, then transitively checkout.tsx, CartSummary.tsx, receipt.ts and refunds.ts, across the web-checkout, billing-api and admin-console repos." />
+</picture>
 
 <br/>
 <sub><i>a change in one file, and everything it touches — the kind of thing my tooling reasons about</i></sub>
