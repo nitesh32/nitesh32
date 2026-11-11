@@ -44,9 +44,9 @@
 
 ## 💼 Experience
 
-### Bytebell &nbsp;·&nbsp; *Apr 2024 – Present*
+### Bytebell &nbsp;·&nbsp; *Apr 2024 – Nov 2026*
 
-#### 🧭 Software Engineer-2 &nbsp;·&nbsp; *May 2026 – Present*
+#### 🧭 Software Engineer-2 &nbsp;·&nbsp; *May 2026 – Nov 2026*
 
 - ☁️ Deployed the platform to client-owned servers on **AWS** and **GCP**, handling infrastructure setup and production issues end to end
 - 📦 Built the containerized distribution pipeline — versioned release packaging, **Docker Compose** & **Kubernetes** deployment, licensing manifests in **etcd**, **HAProxy** routing, and signed image publishing to a private registry (**AWS ECR**) — so customers run the full stack in their own environment
